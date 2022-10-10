@@ -1,0 +1,27 @@
+https://www.kaggle.com/blurredmachine/are-your-employees-burning-out
+
+Context
+Understanding what will be the Burn Rate for the employee working in an organization based on the current pandemic situation where work from home is a boon and a bane. How are employees' Burn Rate affected based on various conditions provided?
+
+Content
+Globally, World Mental Health Day is celebrated on October 10 each year. The objective of this day is to raise awareness about mental health issues around the world and mobilize efforts in support of mental health. According to an anonymous survey, about 450 million people live with mental disorders that can be one of the primary causes of poor health and disability worldwide. These days when the world is suffering from a pandemic situation, it becomes really hard to maintain mental fitness.
+
+Employee ID: The unique ID allocated for each employee (example: fffe390032003000)
+Date of Joining: The date-time when the employee has joined the organization (example: 2008-12-30)
+Gender: The gender of the employee (Male/Female)
+Company Type: The type of company where the employee is working (Service/Product)
+WFH Setup Available: Is the work from home facility available for the employee (Yes/No)
+Designation: The designation of the employee of work in the organization.
+In the range of [0.0, 5.0] bigger is higher designation.
+Resource Allocation: The amount of resource allocated to the employee to work, ie. number of working hours.
+In the range of [1.0, 10.0] (higher means more resource)
+Mental Fatigue Score: The level of fatigue mentally the employee is facing.
+In the range of [0.0, 10.0] where 0.0 means no fatigue and 10.0 means completely fatigue.
+Burn Rate: The value we need to predict for each employee telling the rate of Bur out while working.
+In the range of [0.0, 1.0] where the higher the value is more is the burn out.
+Acknowledgements
+A special thanks to the HackerEarth Competition on the topic "HackerEarth Machine Learning Challenge: Are your employees burning out? which can be accessed here for this data collection.
+
+Inspiration
+Try to build some really amazing predictions keeping in mind that happy and healthy employees are indisputably more productive at work, and in turn, help the business flourish profoundly.
+

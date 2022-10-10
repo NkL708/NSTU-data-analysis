@@ -1,0 +1,27 @@
+About this file
+The description of the attributes in the dataset are as follows 
+
+- Name of the video game  – text, each row depicts name of the video game 
+- Platform – platform on which game runs .
+- NA_Sales – numeric variable, sales in North America for the respective games .
+- EU_Sales – numeric variable, sales in Europe for the respective games. 
+- JP_Sales – numeric variable, sales in Japan for the respective games. 
+- Other_Sales – numeric variable, aggregate sum of sales in other parts of the world, for the respective games.
+
+Columns
+Name
+Platform
+Year_of_Release
+Genre
+Publisher
+NA_players
+EU_players
+JP_players
+Other_players
+Global_players
+Critic_Score
+Critic_Count
+User_Score
+User_Count
+Developer
+Rating
