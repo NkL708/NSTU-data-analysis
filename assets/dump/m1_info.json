@@ -1,0 +1,14 @@
+{
+    "m2_type": "<class 'sklearn.linear_model._base.LinearRegression'>",
+    "requires_normalised_data": false,
+    "features": [
+        "season",
+        "hum",
+        "weathersit"
+    ],
+    "target": [
+        "cnt"
+    ],
+    "R2": 0.16481380176623062,
+    "RMSE": 137.74606094836486
+}

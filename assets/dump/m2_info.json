@@ -1,0 +1,16 @@
+{
+    "m2_type": "<class 'keras.engine.sequential.Sequential'>",
+    "requires_normalised_data": true,
+    "features": [
+        "weekday",
+        "mnth",
+        "season",
+        "hum",
+        "weathersit"
+    ],
+    "target": [
+        "cnt"
+    ],
+    "R2": 0.2600579631030533,
+    "RMSE": 0.20777906837898674
+}
