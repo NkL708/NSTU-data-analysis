@@ -3,14 +3,14 @@
     "requires_normalised_data": true,
     "features": [
         "weekday",
-        "mnth",
+        "hr",
         "season",
-        "hum",
+        "temp",
         "weathersit"
     ],
     "target": [
         "cnt"
     ],
-    "R2": 0.2600579631030533,
-    "RMSE": 0.20777906837898674
+    "R2": 0.7826982168670202,
+    "RMSE": 0.11259901446991619
 }

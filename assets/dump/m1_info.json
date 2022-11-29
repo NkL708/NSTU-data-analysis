@@ -3,12 +3,12 @@
     "requires_normalised_data": false,
     "features": [
         "season",
-        "hum",
+        "temp",
         "weathersit"
     ],
     "target": [
         "cnt"
     ],
-    "R2": 0.16481380176623062,
-    "RMSE": 137.74606094836486
+    "R2": 0.16892690126299292,
+    "RMSE": 137.4064585181164
 }
